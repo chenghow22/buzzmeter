@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 import pandas as pd
 
 # Setup your youtube api key
-youTubeApiKey = "AIzaSyAHUUYyzidO-SkbGiBc_9ZO7JkaxJHXZYc"
+youTubeApiKey = "yourAPIkey"
 youtube = build("youtube","v3",developerKey = youTubeApiKey)
 
 # Input the channel name
