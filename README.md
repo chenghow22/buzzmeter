@@ -8,5 +8,9 @@ Project Description:
 4. Visualize the sentiment with different dimensions to gain insights into public opinions
 5. Building end-to-end data pipeline for continuous data feed and visualization output
 
+Dashboard: 
+https://lookerstudio.google.com/u/0/reporting/dea55b75-c99c-4a26-980b-c5808a63bd5f/page/EKkbD
 
 Team members: Blathnaid King, Seray Buruk, Constantin Hatecke, Cheng How Chin
+
+
